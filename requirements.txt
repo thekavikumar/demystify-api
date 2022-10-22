@@ -1,0 +1,6 @@
+fastapi==0.85.1
+Pillow==9.2.0
+requests==2.24.0
+torch==1.12.1
+torchvision==0.13.1
+uvicorn==0.17.6
