@@ -9,6 +9,9 @@ from torchvision.models import googlenet
 from torch import nn 
 import requests 
 
+def handler(event,context):
+    pass
+
 app = FastAPI() 
 
 origins = [
