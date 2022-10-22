@@ -4,3 +4,4 @@ requests==2.24.0
 torch==1.12.1
 torchvision==0.13.1
 uvicorn==0.17.6
+gunicorn==20.1.0
